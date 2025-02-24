@@ -1,0 +1,10 @@
+**/.pio
+**/.vscode
+**/cfg_pvt.h
+**/bkp_*.*
+**/airstick_rev*-backups
+**/airstick_rev*/production
+**/*missing3Dmodels*
+**/archive_3d_models.log
+**/fabrication-toolkit-options.json
+**/fp-info-cache

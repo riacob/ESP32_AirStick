@@ -31,20 +31,6 @@
       "zones": true
     },
     "visible_items": [
-      "vias",
-      "footprint_text",
-      "ratsnest",
-      "grid",
-      "footprints_front",
-      "footprints_back",
-      "footprint_references",
-      "tracks",
-      "drc_errors",
-      "drawing_sheet",
-      "pads",
-      "zones",
-      "drc_warnings",
-      "drc_exclusions",
       "shapes"
     ],
     "visible_layers": "00000000_00000000_0ffffff5_ffff5ff5",
